@@ -1,0 +1,16 @@
+{
+  "name": "nodemailer-mini-project",
+  "version": "1.0.0",
+  "description": "mini-project to learn to authenticate input email-ids by sending a confirmation mail using node-mailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  }
+}
